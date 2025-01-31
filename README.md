@@ -1,6 +1,9 @@
 # 1ST-SEM-PROJECT
 
-Mini Project in C language by 1. MITALI PRIYADARSHI 2. Manasa V E 3. Nisarga R G 
+Mini Project in C language by:
+1. MITALI PRIYADARSHI
+2. Manasa V E
+3. Nisarga R G 
 
 Title: General Store System
 

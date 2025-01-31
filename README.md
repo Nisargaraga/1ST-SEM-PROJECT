@@ -2,8 +2,8 @@
 
 Mini Project in C Programming language by:
 1. MITALI PRIYADARSHI
-2. Manasa V E
-3. Nisarga R G 
+2. MANASA V E
+3. NISARGA R G 
 
 Title: General Store System
 

@@ -1,5 +1,7 @@
 # 1ST-SEM-PROJECT
 
+Mini Project in C language by 1. MITALI PRIYADARSHI 2. Manasa V E 3. Nisarga R G 
+
 Title: General Store System
 
 Overview: The General Store System is a text-based shopping application implemented in the C programming language. 

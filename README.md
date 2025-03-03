@@ -1,4 +1,4 @@
-# 1ST-SEM-PROJECT
+# 'General Store System' 1ST-SEM-PROJECT
 
 Mini Project in C Programming language by:
 1. MITALI PRIYADARSHI
